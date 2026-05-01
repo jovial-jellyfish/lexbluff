@@ -1,7 +1,7 @@
 {
   "name": "lexbluff",
   "version": "0.1.0",
-  "homepage": ".",
+  "homepage": "/lexbluff",
   "private": true,
   "dependencies": {
     "react": "^18.2.0",
