@@ -1,7 +1,7 @@
 {
   "name": "lexbluff",
   "version": "0.1.0",
-  "homepage": "https://jovial-jellyfish.github.io/lexbluff",
+  "homepage": ".",
   "private": true,
   "dependencies": {
     "react": "^18.2.0",
