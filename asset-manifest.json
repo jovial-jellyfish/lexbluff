@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/lexbluff/static/css/main.6c64483b.css",
+    "main.js": "/lexbluff/static/js/main.711b0b4e.js",
+    "index.html": "/lexbluff/index.html",
+    "main.6c64483b.css.map": "/lexbluff/static/css/main.6c64483b.css.map",
+    "main.711b0b4e.js.map": "/lexbluff/static/js/main.711b0b4e.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.6c64483b.css",
+    "static/js/main.711b0b4e.js"
+  ]
+}
