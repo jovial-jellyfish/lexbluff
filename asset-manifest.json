@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.css": "/lexbluff/static/css/main.c3da2414.css",
-    "main.js": "/lexbluff/static/js/main.7724ac07.js",
+    "main.css": "/lexbluff/static/css/main.9e680962.css",
+    "main.js": "/lexbluff/static/js/main.15188f07.js",
     "index.html": "/lexbluff/index.html",
-    "main.c3da2414.css.map": "/lexbluff/static/css/main.c3da2414.css.map",
-    "main.7724ac07.js.map": "/lexbluff/static/js/main.7724ac07.js.map"
+    "main.9e680962.css.map": "/lexbluff/static/css/main.9e680962.css.map",
+    "main.15188f07.js.map": "/lexbluff/static/js/main.15188f07.js.map"
   },
   "entrypoints": [
-    "static/css/main.c3da2414.css",
-    "static/js/main.7724ac07.js"
+    "static/css/main.9e680962.css",
+    "static/js/main.15188f07.js"
   ]
 }
